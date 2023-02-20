@@ -4,7 +4,7 @@
 
 I recreated the architecture diagram with lucid chart
 
-
+![](imgs/week0/Architecture-diagram.png)
 
 [Lucid Chart share Link](https://lucid.app/lucidchart/a6a84a9a-e16c-4617-8b1b-ea8e63971a56/edit?viewport_loc=-111%2C-39%2C2091%2C1119%2C0_0&invitationId=inv_604b53a6-736f-4aa8-acec-03368292daa0)
 
@@ -31,5 +31,3 @@ I learnt how to setup an SNS topic that was used to create a billing alarm on Cl
 ![](imgs/week0/create-sns-topic-subscription-email.PNG)
 
 ![](imgs/week0/Aws-Billing-Alarm-created-via-CLI.PNG)
-
-![](imgs/week0/Architecture-diagram.PNG)
